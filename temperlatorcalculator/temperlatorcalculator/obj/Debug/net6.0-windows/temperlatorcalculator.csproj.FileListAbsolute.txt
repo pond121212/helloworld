@@ -1,0 +1,17 @@
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\bin\Debug\net6.0-windows\temperlatorcalculator.exe
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\bin\Debug\net6.0-windows\temperlatorcalculator.deps.json
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\bin\Debug\net6.0-windows\temperlatorcalculator.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\bin\Debug\net6.0-windows\temperlatorcalculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\bin\Debug\net6.0-windows\ref\temperlatorcalculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\bin\Debug\net6.0-windows\temperlatorcalculator.pdb
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.Form1.resources
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\ref\temperlatorcalculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.pdb
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\helloworld\temperlatorcalculator\temperlatorcalculator\obj\Debug\net6.0-windows\temperlatorcalculator.genruntimeconfig.cache
